@@ -1,5 +1,5 @@
 # BSL-V53
-Python Brawl Stars server emulator without cryptography for version 53.221
+Python Brawl Stars server emulator without cryptography for version 53.170
 
 ## How to play: ##
 
