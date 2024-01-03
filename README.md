@@ -13,7 +13,7 @@ Python Brawl Stars server emulator for version 53.176
 4: Type python3 Main.py and it's done, follow client instructions.
 
 ### Android Client ###
-1: Download the APK here: https://www.mediafire.com/file/tntq5orl9pipvr9/BSL-V53.apk/file
+1: Download the APK here: https://www.mediafire.com/file/pckn2yz4636sfiv/BSL-V53.176.apk/file
 
 2: Change redirectHost (and redirectPort if you need it) in the frida config (lib/armeabi-v7a/libBSL.c.so)
 
