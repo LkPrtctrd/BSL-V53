@@ -19,11 +19,5 @@ Python Brawl Stars server emulator for version 53.176
 
 3: Enjoy playing BSL-V53!
 
-### iOS Client ###
-s
-o
-o
-n
-
 ## Screenshots ##
 ![BSL-V53](https://raw.githubusercontent.com/LkPrtctrd/BSL-V53/main/Screenshots/menu.png)
