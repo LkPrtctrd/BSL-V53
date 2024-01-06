@@ -1,6 +1,8 @@
 # BSL-V53
 Python Brawl Stars server emulator for version 53.176
 
+I use a zip server from BSDS that I modified which was made by [Сrazor](https://github.com/CrazorTheCat) and [risporse](https://github.com/risporce)
+
 ## How to play: ##
 
 ### Server ###
