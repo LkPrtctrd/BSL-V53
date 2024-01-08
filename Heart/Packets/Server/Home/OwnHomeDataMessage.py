@@ -60,8 +60,55 @@ class OwnHomeDataMessage(PiranhaMessage):
         self.writeVInt(0)
         self.writeVInt(0)
 
-        self.writeVInt(0) # Shop Offers
+        self.writeVInt(1) # Shop Offers
 
+        self.writeVInt(1) # RewardCount
+
+        self.writeVInt(38)  # ItemType
+        self.writeVInt(1337) # Amount
+        self.writeDataReference(0)  # CsvID
+        self.writeVInt(0) # SkinID
+
+        self.writeVInt(0) # Currency(0-Gems, 1-Gold, 3-StarpoInts)
+        self.writeVInt(0) # Cost
+        self.writeVInt(0) # Time
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeBoolean(False)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeBoolean(False) # Daily Offer
+        self.writeVInt(0) # Old price
+        self.writeString('Offer') # Text
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeString("offer_xmas23") # Background
+        self.writeVInt(0)
+        self.writeBoolean(False) # This purchase is already being processed
+        self.writeVInt(0) # Type Benefit
+        self.writeVInt(0) # Benefit
+        self.writeString()
+        self.writeBoolean(False) # One time offer
+        self.writeBoolean(False) # Claimed
+        self.writeDataReference(0)
+        self.writeDataReference(0)
+        self.writeBoolean(False)
+        self.writeBoolean(False)
+        self.writeBoolean(False)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeBoolean(False)
+        self.writeBoolean(False)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeBoolean(False)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        self.writeVInt(0)
+        
         self.writeVInt(20)
         self.writeVInt(1428)
 
