@@ -82,7 +82,7 @@ class OwnHomeDataMessage(PiranhaMessage):
         self.writeString('Offer') # Text
         self.writeVInt(0)
         self.writeVInt(0)
-        self.writeString("offer_xmas23") # Background
+        self.writeString("offer_bgr_xmas23") # Background
         self.writeVInt(0)
         self.writeBoolean(False) # This purchase is already being processed
         self.writeVInt(0) # Type Benefit
