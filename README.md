@@ -1,5 +1,5 @@
 # BSL-V53
-Python Brawl Stars server emulator for version 53.176
+Python Brawl Stars server emulator for version 53
 
 ## How to play: ##
 
