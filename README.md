@@ -10,9 +10,7 @@ I use a zip server from BSDS that I modified which was made by [Сrazor](https:/
 
 2: Open terminal on your computer and go to server directory.
 
-3: Install TweetnaclCrypto if you don't have it (go to server directory -> Heart -> Crypto and type python setup.py install --user)
-
-4: Type python3 Main.py and it's done, follow client instructions.
+3: Type python Main.py and it's done, follow client instructions.
 
 ### Android Client ###
 1: Download the APK here: https://www.mediafire.com/file/n7gptweb86ncf5a/com.bsl.v53-rev1.apk/file
